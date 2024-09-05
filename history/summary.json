@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.rajlabs.in.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "69.73%",
-    "uptimeDay": "69.73%",
-    "uptimeWeek": "69.73%",
-    "uptimeMonth": "69.73%",
-    "uptimeYear": "69.73%",
-    "time": 700,
-    "timeDay": 700,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "uptime": "73.80%",
+    "uptimeDay": "73.80%",
+    "uptimeWeek": "73.80%",
+    "uptimeMonth": "73.80%",
+    "uptimeYear": "73.80%",
+    "time": 641,
+    "timeDay": 641,
+    "timeWeek": 641,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2024-09-05": 33
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 746,
-    "timeWeek": 746,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "time": 688,
+    "timeDay": 688,
+    "timeWeek": 688,
+    "timeMonth": 688,
+    "timeYear": 688,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 673,
-    "timeWeek": 673,
-    "timeMonth": 673,
-    "timeYear": 673,
+    "time": 611,
+    "timeDay": 611,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-05": 23
+      "2024-09-05": 40
     }
   }
 ]
