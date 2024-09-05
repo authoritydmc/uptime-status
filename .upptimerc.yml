@@ -2,6 +2,8 @@
 owner: authoritydmc # Your GitHub organization or username, where this repository lives
 repo: uptime-status # The name of this repository
 
+headers:
+      - "User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/128.0.0.0"
 sites:
   - name: Rajlabs
     url: https://rajlabs.in
@@ -13,6 +15,8 @@ sites:
       - 403
   - name: Gitea
     url: https://gitea.rajlabs.in
+    headers:
+      - "User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/128.0.0.0"
     expectedStatusCodes:
       - 200
       - 201
