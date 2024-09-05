@@ -1,7 +1,7 @@
 url: https://jenkins.rajlabs.in/login
-status: down
+status: up
 code: 403
-responseTime: 63
-lastUpdated: 2024-09-05T07:49:39.314Z
+responseTime: 45
+lastUpdated: 2024-09-05T07:55:51.071Z
 startTime: 2024-09-05T06:07:34.803Z
 generator: Upptime <https://github.com/upptime/upptime>
