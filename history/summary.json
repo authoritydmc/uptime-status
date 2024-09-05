@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.rajlabs.in.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "63.96%",
-    "uptimeDay": "63.96%",
-    "uptimeWeek": "63.96%",
-    "uptimeMonth": "63.96%",
-    "uptimeYear": "63.96%",
+    "uptime": "69.73%",
+    "uptimeDay": "69.73%",
+    "uptimeWeek": "69.73%",
+    "uptimeMonth": "69.73%",
+    "uptimeYear": "69.73%",
     "time": 700,
     "timeDay": 700,
     "timeWeek": 700,
     "timeMonth": 700,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2024-09-05": 39
+      "2024-09-05": 33
     }
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitea.rajlabs.in.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "94.25%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "94.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 746,
     "timeDay": 746,
     "timeWeek": 746,
     "timeMonth": 746,
     "timeYear": 746,
-    "dailyMinutesDown": {
-      "2024-09-05": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nginx FrontEnd Hosting",
@@ -63,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sites.rajlabs.in.ico",
     "slug": "nginx-front-end-hosting",
     "status": "up",
-    "uptime": "94.25%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "94.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 673,
     "timeDay": 673,
     "timeWeek": 673,
     "timeMonth": 673,
     "timeYear": 673,
-    "dailyMinutesDown": {
-      "2024-09-05": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HomeLab Server",
