@@ -22,19 +22,19 @@
     "url": "https://jenkins.rajlabs.in/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.rajlabs.in.ico",
     "slug": "jenkins",
-    "status": "down",
-    "uptime": "89.46%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "89.46%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "89.46%",
-    "time": 580,
-    "timeDay": 580,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "status": "up",
+    "uptime": "67.76%",
+    "uptimeDay": "67.76%",
+    "uptimeWeek": "67.76%",
+    "uptimeMonth": "67.76%",
+    "uptimeYear": "67.76%",
+    "time": 606,
+    "timeDay": 606,
+    "timeWeek": 606,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-09-05": 49
+      "2024-09-05": 198
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://gitea.rajlabs.in",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.rajlabs.in.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "70.46%",
-    "uptimeDay": "70.46%",
-    "uptimeWeek": "70.46%",
-    "uptimeMonth": "70.46%",
-    "uptimeYear": "70.46%",
-    "time": 612,
-    "timeDay": 612,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "status": "up",
+    "uptime": "53.37%",
+    "uptimeDay": "53.37%",
+    "uptimeWeek": "53.37%",
+    "uptimeMonth": "53.37%",
+    "uptimeYear": "53.37%",
+    "time": 637,
+    "timeDay": 637,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-09-05": 137
+      "2024-09-05": 286
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://sites.rajlabs.in/",
     "icon": "https://icons.duckduckgo.com/ip3/sites.rajlabs.in.ico",
     "slug": "nginx-front-end-hosting",
-    "status": "down",
-    "uptime": "96.55%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "96.55%",
-    "time": 547,
-    "timeDay": 547,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "73.12%",
+    "uptimeDay": "73.12%",
+    "uptimeWeek": "73.12%",
+    "uptimeMonth": "73.12%",
+    "uptimeYear": "73.12%",
+    "time": 576,
+    "timeDay": 576,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-09-05": 16
+      "2024-09-05": 165
     }
   }
 ]
