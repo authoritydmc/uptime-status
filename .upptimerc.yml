@@ -11,8 +11,7 @@ sites:
     url: https://gitea.rajlabs.in
   - name: Nginx FrontEnd Hosting
     url: https://sites.rajlabs.in/
-  - name: HomeLab Server
-    url: $HOMELABURL
+
   
 assignees: # Users to assign downtime issues (optional)
   - authoritydmc
