@@ -12,7 +12,7 @@ sites:
   - name: Nginx FrontEnd Hosting
     url: https://sites.rajlabs.in/
   - name: HomeLab Server
-    url: $HOMELAB_URL
+    url: $HOMELABURL
   
 assignees: # Users to assign downtime issues (optional)
   - authoritydmc
