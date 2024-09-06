@@ -8,6 +8,9 @@ sites:
   - name: Rajlabs
     url: https://rajlabs.in
     
+  - name: Rajlabs Tools Site
+    url: https://tools.rajlabs.in
+      
   - name: Jenkins
     url: https://jenkins.rajlabs.in/login
     
