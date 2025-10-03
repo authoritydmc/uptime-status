@@ -22,19 +22,19 @@
     "url": "https://utility.rajlabs.in",
     "icon": "https://icons.duckduckgo.com/ip3/utility.rajlabs.in.ico",
     "slug": "rajlabs-tools-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 1369,
-    "timeWeek": 494,
-    "timeMonth": 289,
+    "timeDay": 969,
+    "timeWeek": 458,
+    "timeMonth": 285,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 7
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 107,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-10-03": 342,
+      "2025-10-03": 349,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
