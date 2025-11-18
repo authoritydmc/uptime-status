@@ -6,9 +6,9 @@
     "slug": "rajlabs",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 109,
@@ -16,7 +16,7 @@
     "timeMonth": 132,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://utility.rajlabs.in",
     "icon": "https://icons.duckduckgo.com/ip3/utility.rajlabs.in.ico",
     "slug": "rajlabs-tools-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 218,
-    "timeWeek": 229,
-    "timeMonth": 188,
+    "time": 184,
+    "timeDay": 156,
+    "timeWeek": 212,
+    "timeMonth": 186,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Nginx @ Homelab",
@@ -54,7 +56,7 @@
     "timeMonth": 209,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-11-18": 451,
+      "2025-11-18": 458,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 640,
