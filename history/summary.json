@@ -4,7 +4,7 @@
     "url": "https://rajlabs.in",
     "icon": "https://icons.duckduckgo.com/ip3/rajlabs.in.ico",
     "slug": "rajlabs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 107,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2026-04-17": 0,
       "2025-11-18": 42
     }
   },
@@ -47,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sites.rajlabs.in.ico",
     "slug": "nginx-homelab",
     "status": "down",
-    "uptime": "5.65%",
+    "uptime": "5.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +59,7 @@
     "timeMonth": 91,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2026-04-17": 83,
+      "2026-04-17": 1091,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
