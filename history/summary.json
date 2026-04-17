@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 127,
-    "timeWeek": 110,
-    "timeMonth": 116,
+    "timeDay": 77,
+    "timeWeek": 96,
+    "timeMonth": 107,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2025-11-18": 42
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 187,
-    "timeDay": 90,
-    "timeWeek": 111,
-    "timeMonth": 149,
+    "time": 186,
+    "timeDay": 200,
+    "timeWeek": 115,
+    "timeMonth": 151,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2026-02-04": 47,
@@ -47,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sites.rajlabs.in.ico",
     "slug": "nginx-homelab",
     "status": "down",
-    "uptime": "5.66%",
+    "uptime": "5.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "2.00%",
-    "time": 151,
-    "timeDay": 61,
-    "timeWeek": 90,
-    "timeMonth": 90,
+    "time": 150,
+    "timeDay": 80,
+    "timeWeek": 79,
+    "timeMonth": 91,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2026-04-16": 85,
+      "2026-04-17": 83,
+      "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -418,8 +419,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   }
 ]
